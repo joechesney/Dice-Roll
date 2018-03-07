@@ -1,0 +1,24 @@
+{
+  "name": "Dice-Roll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "mocha -R nyan --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joechesney/Dice-Roll.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joechesney/Dice-Roll/issues"
+  },
+  "homepage": "https://github.com/joechesney/Dice-Roll#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4"
+  }
+}
